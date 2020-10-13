@@ -1,4 +1,4 @@
-reqire_relative "../config/environment.rb"
+reqire_relative "../config/environment"
 
 Hashie
 Sinatra
